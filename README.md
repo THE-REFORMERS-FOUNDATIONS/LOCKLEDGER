@@ -1,2 +1,2 @@
 # LÖCKLEDGER
-LÖCKLEDGER is a 4D Blockchain, harnessing virtualization power to create benign AGI and ASI systems.
+4D Blockchain harnessing VM power to create the first benign AGI and ASI systems.
